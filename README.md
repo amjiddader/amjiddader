@@ -29,12 +29,10 @@
 
 ### Contribution
 
-<a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a>
-<!--
 
 <!--
 **amjiddader/amjiddader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -45,4 +43,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
