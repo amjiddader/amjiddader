@@ -38,7 +38,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amjiddader&show_icons=true&locale=en" alt="amjiddader"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amjiddader&show_icons=true&locale=en" alt="amjiddader"/></p>
 
 <!--
 **amjiddader/amjiddader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
