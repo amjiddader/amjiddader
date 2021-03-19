@@ -1,4 +1,5 @@
-### Hi there 👋
+### <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+
 
 <!--
 **amjiddader/amjiddader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
