@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/amjiddader" target="blank"><img src="https://img.shields.io/twitter/follow/amjiddader?logo=twitter&style=for-the-badge" alt="amjiddader" /></a> </p>
 
-- 🔭 I’m learning to **live without money.**
+- 🔭 I’m learning new things **everyday.**
 
-- 🌱 I can help you on IPTV, VOD, Streaming **Stuff**
+- 🌱 I can help you on lot of **Stuff**
 
 - 👯 I’m looking to get contributor on **Hostdam**
 
