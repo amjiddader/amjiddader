@@ -1,4 +1,4 @@
-<h4 align="center"> Hey there! <img src="https://raw.githubusercontent.com/amjiddader/amjiddader/main/wave.gif" width="30px"> I'm Amjid Dader</h4>
+<h4 align="center"> Hey there! I'm <b> Amjid Dader </b></h4>
 
 <h3 align="center">I know how to break thing, I am learning how to fix them..</h3>
 
