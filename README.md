@@ -22,7 +22,8 @@
 
 - 📫 Reach me on Facebook **https://m.me/amjiddader**
 
-- 📄 What i am doing? [https://github.com/wansawinc/sairbeen/](https://hostdam.com](https://github.com/wansawinc/sairbeen/)
+- 📄 What i am doing? [Small project for local community - Contribute?](https://github.com/wansawinc/sairbeen)
+
 
 - ⚡ Fun fact **i am from Kupwara #kashmir**
 
