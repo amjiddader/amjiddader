@@ -22,6 +22,8 @@
 
 - 📫 Reach me on Facebook **https://m.me/amjiddader**
 
+- <a href="https://wansaw.com/@amjiddader" rel="me">Follow me on Mastodon!</a>
+
 - 📄 What i am doing? [Small project for local community - Contribute?](https://github.com/wansawinc/sairbeen)
 
 
