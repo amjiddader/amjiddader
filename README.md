@@ -15,7 +15,7 @@
 
 - 👨‍💻 My public projects are available at [https://githiub.com/amjiddader/public](https://githiub.com/amjiddader/public)
 
-- 💬 Reach me on Instagram **https://instagram.com/login.js**
+- 💬 Reach me on Instagram **https://instagram.com/amjid.png**
 
 - 📫 Reach me on Facebook **https://m.me/amjiddader**
 
