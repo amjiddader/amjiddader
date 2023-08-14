@@ -4,10 +4,7 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=amjiddader&label=VISITORS&labelColor=%232ccce4&countColor=%23f47373&labelStyle=upper)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amjiddader&label=Profile%20views&color=0e75b6&style=flat" alt="amjiddader" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amjiddader" alt="amjiddader" /></a> </p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amjiddader" alt="amjiddader" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/amjiddader" target="blank"><img src="https://img.shields.io/twitter/follow/amjiddader?logo=twitter&style=for-the-badge" alt="amjiddader" /></a> </p>
 
