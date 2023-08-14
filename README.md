@@ -4,7 +4,6 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=amjiddader&label=VISITORS&labelColor=%232ccce4&countColor=%23f47373&labelStyle=upper)
 
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amjiddader" alt="amjiddader" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/amjiddader" target="blank"><img src="https://img.shields.io/twitter/follow/amjiddader?logo=twitter&style=for-the-badge" alt="amjiddader" /></a> </p>
 
