@@ -2,6 +2,9 @@
 
 <h3 align="center">I know how to break thing, I am learning how to fix them..</h3>
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=amjiddader&label=VISITORS&labelColor=%232ccce4&countColor=%23f47373&labelStyle=upper)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjiddader&label=Profile%20views&color=0e75b6&style=flat" alt="amjiddader" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amjiddader" alt="amjiddader" /></a> </p>
