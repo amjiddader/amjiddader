@@ -21,20 +21,28 @@
 
 - 📄 Follow me on <a href="https://wansaw.com/@amjiddader" rel="me">Mastodon!</a>
 
-- 📄 What i am doing? [Small project for local community - Contribute?](https://github.com/wansawinc/sairbeen)
+<!-- - 📄 What i am doing? [Small project for local community - Contribute?](https://github.com/wansawinc/sairbeen)
 
 
-- ⚡ Fun fact **i am from Kupwara #kashmir**
+- ⚡ Fun fact **i am from Kupwara #kashmir** 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/amjiddader" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amjiddader" height="30" width="40" /></a>
 <a href="https://fb.com/amjiddader" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="amjiddader" height="30" width="40" /></a>
 <a href="https://instagram.com/login.js" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amjid.png" height="30" width="40" /></a>
-</p>
+</p> 
+-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sparrow9616&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=sparrow9616&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sparrow9616&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <br>
+  <img align="center" src="https://github.com/amjiddader/snk/raw/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="amjiddader" />
+</div>
 
 
-<img align="center" src="https://github.com/amjiddader/snk/raw/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="amjiddader" />
+
 
 
 <!--
