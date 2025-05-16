@@ -19,7 +19,7 @@
 
 - 📫 Reach me on Facebook **https://m.me/amjiddader**
 
-- <a href="https://wansaw.com/@amjiddader" rel="me">Follow me on Mastodon!</a>
+- 📫 Follow me on <a href="https://wansaw.com/@amjiddader" rel="me">Mastodon!</a>
 
 - 📄 What i am doing? [Small project for local community - Contribute?](https://github.com/wansawinc/sairbeen)
 
@@ -34,7 +34,7 @@
 </p>
 
 
-<img align="center" src="https://raw.githubusercontent.com/amjiddader/amjiddader/output/snake.svg" alt="Snake animation" />
+<img align="center" src="https://github.com/amjiddader/snk/raw/refs/heads/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 
 <!--
