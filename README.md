@@ -34,7 +34,7 @@
 </p>
 
 
-<img align="center" src="https://github.com/amjiddader/snk/raw/refs/heads/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img align="center" src="https://github.com/amjiddader/snk/raw/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="amjiddader" />
 
 
 <!--
