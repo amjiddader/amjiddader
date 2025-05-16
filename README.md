@@ -34,7 +34,8 @@
 </p>
 
 
-<p><img align="center" src="https://raw.githubusercontent.com/amjiddader/amjiddader/output/snake.svg" alt="amjiddader"/></p>
+<img align="center" src="https://raw.githubusercontent.com/amjiddader/amjiddader/output/snake.svg" alt="Snake animation" />
+
 
 <!--
 **amjiddader/amjiddader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
