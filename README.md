@@ -19,7 +19,7 @@
 
 - 📫 Reach me on Facebook **https://m.me/amjiddader**
 
-- 📫 Follow me on <a href="https://wansaw.com/@amjiddader" rel="me">Mastodon!</a>
+- 📄 Follow me on <a href="https://wansaw.com/@amjiddader" rel="me">Mastodon!</a>
 
 - 📄 What i am doing? [Small project for local community - Contribute?](https://github.com/wansawinc/sairbeen)
 
