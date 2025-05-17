@@ -37,10 +37,13 @@
 -->
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sparrow9616&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=amjiddader&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <br>
   <img src="https://streak-stats.demolab.com?user=amjiddader&theme=tokyonight-duo&border_radius=1.0&date_format=j%20M%5B%20Y%5D&card_width=600" alt="streak graph"  />
+  <be>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sparrow9616&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <br>
+  <hr>
   <img align="center" src="https://github.com/amjiddader/snk/raw/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="amjiddader" />
 </div>
 
