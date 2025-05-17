@@ -1,7 +1,7 @@
 <div align="center">
 <h3>I know how to break thing, I am learning how to fix them..</h3>
   
-![Visitors](https://api.visitorbadge.io/api/visitors?path=amjiddader&label=VISITORS&labelColor=%232ccce4&countColor=%23f47373&labelStyle=upper)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=amjiddader&label=VISITORS&labelColor=%005777&countColor=%23f47373&labelStyle=upper)
 
 </div>
 - 🔭 I’m learning new things **everyday.**
