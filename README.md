@@ -1,10 +1,11 @@
-<h4 align="center"> Hey there! I'm <b> Amjid Dader </b></h4>
+<div align="center">
+<h4> Hey there! I'm <b> Amjid Dader </b></h4>
 
-<h3 align="center">I know how to break thing, I am learning how to fix them..</h3>
+<h3>I know how to break thing, I am learning how to fix them..</h3>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=amjiddader&label=VISITORS&labelColor=%232ccce4&countColor=%23f47373&labelStyle=upper)
 
-
+</div>
 - 🔭 I’m learning new things **everyday.**
 
 - 🌱 I can help you on lot of **Stuff**
