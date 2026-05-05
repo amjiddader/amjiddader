@@ -48,7 +48,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src=" https://github-readme-stats-sigma-five.vercel.app/api?username=amjiddader&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amjiddader&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=amjiddader&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
@@ -57,7 +57,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=tokyonight-duo&hide_border=true&mode=weekly"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amjiddader&theme=tokyonight-duo&hide_border=true&mode=weekly"/>
 </p>
 
 ---
