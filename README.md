@@ -32,7 +32,7 @@
 <p align="center">
   <a href="https://instagram.com/amjid.png"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://m.me/amjiddader"><img src="https://skillicons.dev/icons?i=facebook" /></a>
-  <a href="https://wansaw.com/@amjiddader"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://x.com/@amjiddader"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 ---
@@ -48,8 +48,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amjiddader&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amjiddader&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src=" https://github-readme-stats-sigma-five.vercel.app/api?username=amjiddader&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=amjiddader&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -89,11 +89,5 @@
 </p>
 
 
-Add project cards pinned manually
 
-Add blog/dev.to integration
-
-If you want, I can design a completely custom themed version (cyberpunk, minimal glassmorphism, hacker style, etc.) tailored to your personality instead of generic dev templates.
-
-DEVELOPER MODE
 
