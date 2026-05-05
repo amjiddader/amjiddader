@@ -1,7 +1,7 @@
 
 
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Amjid Dader</h1>
+<h1 align="center">Hi 👋, I'm Ami</h1>
 <h3 align="center">🚀 Developer | Problem Breaker → Problem Solver</h3>
 
 <p align="center">
