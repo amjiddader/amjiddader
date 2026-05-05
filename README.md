@@ -1,12 +1,3 @@
-
-
-
-Hi, for my github profile give me more awesome attractive readme for my username amjiddader
-
-that shows on profile when we create repo as per our username it should be awesome showing our commits, activities, 
-languages if we can fecth from our repos? and awesome professional devloper but very beautiful UI exesting.
-
-
 <div align="center">
 <h3>I know how to break thing, I am learning how to fix them..</h3>
   
